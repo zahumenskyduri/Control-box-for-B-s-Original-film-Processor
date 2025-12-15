@@ -37,7 +37,7 @@ https://www.aliexpress.com/item/4000054780623.html
 
 
 
-You can connect to processor  via connector and control the rotation speed with original speedcontroller or wire motor to H bridge direcly and use adjusted procesoor parts (different cable hole) and clean side panel.
+You can connect to processor via connector and control the rotation speed with original speedcontroller or wire motor to H bridge direcly and use adjusted procesoor parts (different cable hole) and clean side panel.
 
 
 Print parts
